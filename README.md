@@ -1,4 +1,4 @@
-# Hackaton - Bookflix
+# Hackaton - Bookflix (Frontend)
 ## INF332 (2021)
 
 ## Equipe 1
